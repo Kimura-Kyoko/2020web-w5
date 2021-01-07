@@ -7,7 +7,7 @@ function randomValueFromArray(array){
   return array[random];
 }
 
-let storyText = '昔々あるところにおじいさんとおばあさんがいました。 :insertx: はある日、津田梅子さんのお墓の前で :inserty:を拾いました。名前をBobと名付けました。 :insertx: はその子を我が子のように大切に育てました。その子は大変:insertz:成長しました。';
+let storyText = '昔々あるところにおじいさんとおばあさんがいました。:insertx:はある日、津田梅子さんのお墓の前で、:inserty:を拾いました。名前をBobと名付けました。 :insertx:はその子を我が子のように大切に育てました。その子は大変:insertz:成長しました。';
 let insertX = ['おじいさん','おばあさん','おじいさんの友人'];
 let insertY = ['かわいい赤子','可愛らしい子犬','可愛らしい子猫'];
 let insertZ = ['美しく','たくましく','個性的に'];
